@@ -1,11 +1,11 @@
 
 # Sporto
-Sprto is an app using API from The Sports DB to allow users to search about some Iformation about Players and Teams Football .
+Sprto is an app using API from Sports DB allowing users to search about their fav footbal players and Teams.
 
 # Site Link : https://fack1.github.io/Sporto-.-/html/index.html
 
 # User journey :
-In Our App You can find Information about Your fav players and your fav team players :
+In Our App You can find info about Your fav players or team :
   - In Our Basic page we Have tow card 
       - Search about player : if you click on this card you will go in a section in out page , by this page you will find a 
         search box , enter your player name then will see info about him .
@@ -39,7 +39,7 @@ Main has a basic page to show name of app, what this app do, have a 2 cards to c
   - choose search for a player by name cards .
   - go to searching player section 
   - put in searching box name of player like : Danny Welbeck
-  - make request to GOT API for character
+  - make request to GIT API for sport palyers
   - make a request to DB to get link to page (and image) MAKEREQUEST
   - git info from api
   - connect data with dom element 
