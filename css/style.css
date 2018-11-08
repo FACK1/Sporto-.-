@@ -264,7 +264,7 @@ input{
     height: 100%;
 }
 #p-p,#p-no,
-#p-name,#p-n,#p-t{
+#p-name,#p-n,#p-t,#p-unk{
     font-size: 24px;
     color: aliceblue;
     margin-top: 30px
